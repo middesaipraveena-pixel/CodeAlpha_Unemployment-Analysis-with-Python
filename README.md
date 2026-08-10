@@ -23,7 +23,7 @@ This project analyzes **unemployment trends** using Python and Data Science tech
 
 ## 🚀 How to Run
 
-```bash
+```https://github.com/middesaipraveena-pixel/CodeAlpha_Unemployment-Analysis-with-Python
 pip install pandas numpy matplotlib seaborn jupyter
 jupyter notebook
 ```
